@@ -1,0 +1,3 @@
+[submodule "shell/rust"]
+	path = shell/rust
+	url = https://git.codecrafters.io/ea1c28bfd47e63dd
